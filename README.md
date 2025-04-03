@@ -2,7 +2,8 @@
 
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TarunSingh-07/TarunSingh-07/main/Tarun%20kumar%20Singh%20(6).png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/TarunSingh-07/TarunSingh-07/main/TarunkumarSingh.png" alt="Banner" width="100%" />
+
 </p>
 
 ## 🚀 About Me
