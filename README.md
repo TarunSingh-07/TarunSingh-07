@@ -2,7 +2,7 @@
 
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/assets/banner.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/TarunSingh-07/TarunSingh-07/main/Tarun%20kumar%20Singh%20(6).png" alt="Banner"/>
 </p>
 
 ## 🚀 About Me
