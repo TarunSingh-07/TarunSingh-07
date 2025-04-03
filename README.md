@@ -3,7 +3,6 @@
 <!-- Profile Header Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/TarunSingh-07/TarunSingh-07/main/TarunkumarSingh.png" alt="Banner" width="100%" />
-
 </p>
 
 ## 🚀 About Me
