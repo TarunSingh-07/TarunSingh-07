@@ -1,4 +1,4 @@
-### Hi there, I'm [Tarun Kumar Singh] 👋
+### Hi there, I'm Tarun Kumar Singh 👋
 
 <!-- Profile Header Image -->
 <p align="center">
