@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TarunSingh-07/TarunSingh-07/main/TarunkumarSingh.png" alt="Banner" width="100%" />
 </p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 
 # 💫 About Me:
 🎓 Persuing MCA | BCA Graduate<br>💻 Passionate about: Full-Stack Development, Data Analytics & AI<br>🌱 Currently Learning: Advanced JavaScript, APIs, and System Design<br>💡 Interests: Open Source 💙, Problem Solving 🤓<br>🚀 Looking Collaborate on building real-world problems!<br>⚡I love turning ideas into reality through code . <br><br><br>
