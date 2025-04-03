@@ -1,7 +1,9 @@
 ### Hi there, I'm [Your Name] 👋
 
 <!-- Profile Header Image -->
-![Banner](https://source.unsplash.com/1600x500/?technology,coding)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/assets/banner.png" alt="Banner"/>
+</p>
 
 ## 🚀 About Me
 
@@ -65,16 +67,6 @@ I'm currently pursuing an **MCA** and continuously building real-world projects 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/itarunk.5ingh)
-
----
-*"Keep pushing forward and never stop learning!" 🚀*
-
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/your-github-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react)](https://your-portfolio.com)
 
 ---
 *"Keep pushing forward and never stop learning!" 🚀*
