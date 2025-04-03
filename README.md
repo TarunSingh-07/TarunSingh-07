@@ -31,6 +31,7 @@
 
 </div>
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TarunSingh-07&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
@@ -38,13 +39,14 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=TarunSingh-07&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=TarunSingh-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=TarunSingh-07&icon=7&color=10)](https://visitcount.itsvg.in)
 
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
